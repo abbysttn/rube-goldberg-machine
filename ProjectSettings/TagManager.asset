@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Seesaw
   - Button
+  - Ball
+  - Pin
   layers:
   - Default
   - TransparentFX
