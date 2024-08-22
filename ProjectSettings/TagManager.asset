@@ -8,6 +8,7 @@ TagManager:
   - Button
   - Ball
   - Pin
+  - toaster
   layers:
   - Default
   - TransparentFX
