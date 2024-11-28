@@ -41,4 +41,4 @@ Please ensure that you have the correct version of Unity downloaded, there is no
 
 
 #### Click on the project and Unity should now start booting up.
-#### You now have the Duck vs Toaster race for yourself! 🦆🥪
+## You now have the Duck vs Toaster race for yourself! 🦆🥪
