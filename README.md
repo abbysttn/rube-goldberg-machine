@@ -1,4 +1,4 @@
-# 🦆🍞 Duck and Toaster Race, Rube Goldberg Machine 🦆🍞
+# 🦆 Duck and Toaster Race, Rube Goldberg Machine 🍞
 
 This project brings a whimsical Rube Goldberg machine to life, where the ultimate goal is to see who reaches the bathtub first: the rolling duck or the spring-loaded toaster! 
 With interesting physics and quirky interactions, this project guarantees a lighthearted and creative experience as you watch these unlikely competitors try and reach the bath! 🚀🛁
