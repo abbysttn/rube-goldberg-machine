@@ -5,6 +5,12 @@ With interesting physics and quirky interactions, this project guarantees a ligh
 
 #### Let the race begin—quack versus toast! 🦆🥪
 
+## ✨Stardrop Saloon Preview✨
+<img src="https://github.com/user-attachments/assets/50657ed8-db2c-419b-abf2-10556d83d668" height="100">
+<img src="https://github.com/user-attachments/assets/d7629f93-1fb9-4932-a246-05d30b836bcb" height="100">
+<img src="https://github.com/user-attachments/assets/70bb014a-7e19-4ead-ac85-61219a20fa5c" height="100">
+<img src="https://github.com/user-attachments/assets/54263858-00d0-4726-b3af-2c1b94c70e58" height="100">
+
 ### 📲 How To Download and Run
 
 #### Download the zip file from GitHub and open in your file explorer
